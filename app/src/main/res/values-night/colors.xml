@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="you_keyboard_background_color">#191C1E</color>
+    <color name="you_keyboard_toolbar_color">@color/you_background_color</color>
+    <color name="app_text_color">@color/dark_text_color</color>
+    <color name="nav_bar_color">#000</color>
+    <color name="nav_bar_focus_color">#FFF</color>
+    <color name="nav_bar_selected_color">@color/nav_bar_selected_color_dark</color>
+    <color name="you_border_color">#FFFFFFFF</color>
+    <color name="background_color">#235270</color>
+    <color name="text_color">#FFF</color>
+    <color name="icon_color">#FFF</color>
+    <color name="card_view_color">#000</color>
+    <color name="hint_surface_color">@color/you_hint_surface_color</color>
+    <color name="menu_option_color">#878472</color>
+    <color name="corner_polygon_color">@color/dark_tutorial_button_color</color>
+    <color name="button_outline_color">@color/dark_button_outline_color</color>
+    <color name="button_text_color">#D17B0F</color>
+    <color name="rv_divider">#b2aeae</color>
+    <color name="switch_thumb_selector_color_true">#D17B0F</color>
+    <color name="switch_thumb_selector_color_false">@android:color/darker_gray</color>
+    <color name="switch_selector_color">@color/corner_polygon_color</color>
+    <color name="switch_selector_color_false">@color/md_grey_800_dark</color>
+    <color name="button_container_color">@color/you_button_background_color</color>
+    <color name="theme_scribe_blue">@color/dark_scribe_blue</color>
+    <color name="navigation_bar_color">@color/dark_keyboard_bg_color</color>
+    <color name="default_key_color">@color/dark_key_color</color>
+    <color name ="conjugate_keyboard_color">@color/dark_keyboard_bg_color</color>
+
+
+    <!-- Commons colors -->
+    <color name="you_status_bar_color">#20333D</color>
+    <color name="you_contextual_status_bar_color">#004C69</color>
+    <color name="you_background_color">@color/dark_scribe_color</color>
+    <color name="you_neutral_text_color">#F0F0F3</color>
+    <color name="you_primary_color">@color/dark_scribe_color</color>
+    <color name="you_primary_dark_color">#00668B</color>
+    <color name="you_dialog_background_color">#20333D</color>
+    <color name="you_button_background_color">@color/light_scribe_color</color>
+    <color name="you_hint_surface_color">#000000</color>
+    <color name="annotateRed">#FB5F6C</color>
+    <color name="annotateBlue">#339EEB</color>
+    <color name="annotatePurple">#AC6DEC</color>
+    <color name="annotateGreen">#85C26F</color>
+    <color name="annotateOrange">#FD9F5D</color>
+    <color name="toolbar_background_color">@color/dark_keyboard_bg_color</color>
+</resources>
