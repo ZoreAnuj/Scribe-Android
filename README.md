@@ -1,11 +1,11 @@
 # Scribe Android
 
-Scribe Android is a keyboard app designed to assist language learners by providing intuitive input tools directly within their mobile device. It exists to lower the barrier to practicing a new language by integrating learning aids into the everyday typing experience.
+Scribe Android is a keyboard app designed to assist language learners by providing intelligent input tools directly within their mobile device. It exists to lower the barrier to practicing a new language by integrating learning aids into the native typing experience.
 
 ## Key Features
-*   Custom keyboards with language-specific layouts and suggestions.
-*   Integrated dictionary and translation tools for quick reference.
-*   Support for multiple languages in a single, streamlined interface.
+*   Custom keyboards with built-in translation and dictionary lookup.
+*   Real-time grammar and spelling suggestions for target languages.
+*   Seamless integration with any text input field on the device.
 
 ## Tech Stack
 *   Kotlin
