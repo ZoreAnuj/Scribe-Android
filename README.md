@@ -1,17 +1,16 @@
 # Scribe-Android
 
-Scribe-Android is a personal exploration into language learning technology, inspired by the original Scribe project. It's an Android app that provides custom keyboards designed to help learners practice and input text in their target language more intuitively. This project exists to experiment with mobile-first tools that lower the barrier to practicing a new language daily.
+Scribe-Android is an Android application designed to aid language learning through specialized keyboards. It exists to provide learners with intuitive tools for practicing new languages directly from their mobile devices, exploring the intersection of language acquisition and mobile utility.
 
 ## Key Features
 *   Custom keyboards tailored for specific language learning challenges.
-*   Integrated dictionaries and translation hints accessible directly from the keyboard.
+*   Integrated tools for quick vocabulary lookup and character insertion.
 *   A clean, user-friendly interface focused on reducing friction during practice.
-*   Support for multiple language layouts and input methods.
 
 ## Tech Stack
-*   **Kotlin** - Primary programming language.
-*   **Android SDK** - Native Android development.
-*   **XML** - UI layout and design.
+*   Kotlin
+*   Android SDK
+*   Jetpack Compose
 
 ## Getting Started
 1.  Clone the repository: `git clone https://github.com/zoreanuj/Scribe-Android.git`
